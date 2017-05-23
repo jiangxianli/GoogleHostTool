@@ -14,7 +14,7 @@
 ## 注意
 - 用户权限问题
 - 部分linux系统中可能没有预装wget,需要手动先安装wget
-- 执行完脚本后访问google,请记得是https://www.google.com.hk,是https开头哦
+- 执行完脚本后访问google,请记得是https://www.google.com.hk ,是https开头哦
 - 如遇到执行完脚本后,google hosts不生效的问题请提交到issues
 
 
