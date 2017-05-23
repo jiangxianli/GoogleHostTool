@@ -57,7 +57,6 @@ echo "Replace host file google host ip list"
 
 #清除DNS缓存
 echo "Clear ipconfig dns cache"
-CMD "ipconfig/flushdns" 
 
 
 
